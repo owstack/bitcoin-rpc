@@ -1,18 +1,22 @@
-btccore-rpc.js
+bitcoind-rpc.js
 ===============
 
-[![NPM Package](https://img.shields.io/npm/v/btccore-rpc.svg?style=flat-square)](https://www.npmjs.org/package/btccore-rpc)
-[![Build Status](https://img.shields.io/travis/owstack/btccore-rpc.svg?branch=master&style=flat-square)](https://travis-ci.org/owstack/btccore-rpc)
-[![Coverage Status](https://img.shields.io/coveralls/owstack/btccore-rpc.svg?style=flat-square)](https://coveralls.io/r/owstack/btccore-rpc?branch=master)
+[![NPM Package](https://img.shields.io/npm/v/bitcoind-rpc.svg?style=flat-square)](https://www.npmjs.org/package/bitcoind-rpc)
+[![Build Status](https://img.shields.io/travis/owstack/bitcoind-rpc.svg?branch=master&style=flat-square)](https://travis-ci.org/owstack/bitcoind-rpc)
+[![Coverage Status](https://img.shields.io/coveralls/owstack/bitcoind-rpc.svg?style=flat-square)](https://coveralls.io/r/owstack/bitcoind-rpc?branch=master)
 
 A client library to connect to Bitcoin Core RPC in JavaScript.
 
+## Attribution
+
+This repository was created by copy forking [bitcoind-rpc commit da5d5ec] (https://github.com/bitpay/bitcoind-rpc/commit/da5d5ec2723bf86583218f5f63158286a38ac2a2).
+
 ## Get Started
 
-btccore-rpc.js runs on [node](http://nodejs.org/), and can be installed via [npm](https://npmjs.org/):
+bitcoind-rpc.js runs on [node](http://nodejs.org/), and can be installed via [npm](https://npmjs.org/):
 
 ```bash
-npm install btccore-rpc
+npm install bitcoind-rpc
 ```
 
 ## Examples
@@ -20,7 +24,7 @@ npm install btccore-rpc
 ```javascript
 var run = function() {
   var btccore = require('btccore');
-  var RpcClient = require('btccore-rpc');
+  var RpcClient = require('bitcoind-rpc');
 
   var config = {
     protocol: 'http',
@@ -72,6 +76,6 @@ var run = function() {
 
 ## License
 
-**Code released under [the MIT license](https://github.com/owstack/btccore/blob/master/LICENSE).**
+**Code released under [the MIT license](https://github.com/owstack/bitcoind-rpc/blob/master/LICENSE).**
 
 Copyright 2017 Open Wallet Stack
