@@ -1,6 +1,6 @@
 {
   "name": "bitcoind-rpc",
-  "description": "Bitcoin Client Library to connect to Bitcoin Core via RPC",
+  "description": "Bitcoin Client Library to connect to Bitcoin Core via RPC.",
   "version": "0.0.1",
   "keywords": [
     "bitcoin",
