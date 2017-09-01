@@ -1,5 +1,5 @@
-bitcoind-rpc.js
-===============
+bitcoind-rpc
+======
 
 [![NPM Package](https://img.shields.io/npm/v/bitcoind-rpc.svg?style=flat-square)](https://www.npmjs.org/package/bitcoind-rpc)
 [![Build Status](https://img.shields.io/travis/owstack/bitcoind-rpc.svg?branch=master&style=flat-square)](https://travis-ci.org/owstack/bitcoind-rpc)
@@ -9,7 +9,7 @@ A client library to connect to Bitcoin Core RPC in JavaScript.
 
 ## Attribution
 
-This repository was created by copy forking [bitcoind-rpc commit da5d5ec] (https://github.com/bitpay/bitcoind-rpc/commit/da5d5ec2723bf86583218f5f63158286a38ac2a2).
+This repository was created by copy forking [bitcoind-rpc commit da5d5ec](https://github.com/bitpay/bitcoind-rpc/commit/da5d5ec2723bf86583218f5f63158286a38ac2a2).
 
 ## Get Started
 
