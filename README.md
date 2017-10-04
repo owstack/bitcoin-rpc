@@ -1,6 +1,8 @@
 bitcoind-rpc
 ======
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/owstack/bitcoind-rpc.svg)](https://greenkeeper.io/)
+
 [![NPM Package](https://img.shields.io/npm/v/bitcoind-rpc.svg?style=flat-square)](https://www.npmjs.org/package/bitcoind-rpc)
 [![Build Status](https://img.shields.io/travis/owstack/bitcoind-rpc.svg?branch=master&style=flat-square)](https://travis-ci.org/owstack/bitcoind-rpc)
 [![Coverage Status](https://img.shields.io/coveralls/owstack/bitcoind-rpc.svg?style=flat-square)](https://coveralls.io/r/owstack/bitcoind-rpc?branch=master)
