@@ -1,5 +1,5 @@
 {
-  "name": "bitcoind-rpc",
+  "name": "@owstack/bitcoind-rpc",
   "description": "Bitcoin Client Library to connect to Bitcoin Core via RPC.",
   "version": "0.0.1",
   "keywords": [
